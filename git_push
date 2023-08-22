@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "pipfile lock updated"
+git commit -m "mysqlclient integration"
 git push
