@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "model file created"
+git commit -m "pipfile lock updated"
 git push
